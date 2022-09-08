@@ -90,7 +90,9 @@ picture {
   max-width: 100%;
   display: block;
 }
-
+img {
+  border-radius: 15px;
+}
 /* Inherit fonts for inputs and buttons */
 input,
 button,
