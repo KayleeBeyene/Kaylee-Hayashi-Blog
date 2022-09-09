@@ -12,15 +12,13 @@ imageAlt: Responsive web design keeps your site looking good regardless of what
   device you're viewing it on.
 ---
 Technology continues to advance, and so does the way people interact with businesses.
-With the popularity of mobile devices such as tablets and smartphones, responsive website design has become a must-have. It allows customers to have the best user experience regardless of which device they are using.
+With the popularity of mobile devices such as tablets and smartphones, responsive website design has become a must-have. RWD allows customers to have the best user experience regardless of which device they are using.
 
 In this article, we'll discuss some of the reasons why you might want to incorporate responsive website design into your business or organization.
 
 # What is Responsive Web Design (RWD)?
 
 RWD is important because it allows your website to be accessible to everyone, no matter what device they're using. Responsive web design is an approach to web design that keeps websites looking good on all devices, from small phones to large desktop monitors, as shown below.
-
-
 
 # Why Should I Care About RWD?
 
