@@ -8,15 +8,15 @@ date: 2022-09-09T07:24:44.326Z
 tags:
   - featured
 image: /assets/blog/responsive-web-design.png
-imageAlt: Responsive web design keeps your site looking good regardless of what
-  device you're viewing it on.
+imageAlt: Responsive website design keeps your site looking good regardless of
+  what device you're viewing it on.
 ---
 Technology continues to advance, and so does the way people interact with businesses.
 With the popularity of mobile devices such as tablets and smartphones, responsive website design has become a must-have. RWD allows customers to have the best user experience regardless of which device they are using.
 
 In this article, we'll discuss some of the reasons why you might want to incorporate responsive website design into your business or organization.
 
-# What is Responsive Web Design (RWD)?
+# What is Responsive Website Design (RWD)?
 
 RWD is important because it allows your website to be accessible to everyone, no matter what device they're using. Responsive web design is an approach to web design that keeps websites looking good on all devices, from small phones to large desktop monitors, as shown below.
 
@@ -35,5 +35,3 @@ If you're not already using a responsive website design, it's time to make the s
 A responsive website is essential for delivering a positive user experience, and that's important for keeping your customers happy.
 
 In addition, responsive design can help improve your search engine ranking, which can lead to more traffic and more customers.
-
-With so many benefits, there's no reason not to make the switch to a responsive website design.
